@@ -1,0 +1,17 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.env
+
+# Playwright output
+test-results/
+playwright-report/
+blob-report/
+
+# Local tooling and personal notes
+.claude/
+INTERVIEW_AND_LOOM_GUIDE.md
